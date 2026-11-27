@@ -1,0 +1,11 @@
+/outputs/
+/pretrained/downstream/immune_age/seed42/scflowdiff/
+/pretrained/downstream/immune_age/seed42/datp/
+*.h5ad
+*.h5mu
+*.ckpt
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ruff_cache/
+.pytest_cache/
